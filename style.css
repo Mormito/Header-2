@@ -1,4 +1,4 @@
-.base{
+.top{
 
     margin: 0 auto;
     padding: 0 auto;
@@ -63,4 +63,26 @@
     cursor: pointer;
     margin-left: 3%;
     width: 8%;
+}
+
+.mid{
+}
+
+.bottom{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+
+    margin-top: 40%;
+    width: 100%;
+    border: 1px solid black;
+
+    font-size: 90%;
+}
+
+.direitos{
+    font-size: 65%;
 }
